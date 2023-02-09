@@ -1,0 +1,11 @@
+id: 0cad5dd91e974c3eb89d9c6058df1b30
+annotation_type: index
+revision: '00001'
+annotations:
+  ed52dac5981242559b469000d92af963:
+    base: ECE7.txt
+    Chapters:
+    - title: Adhikaraṇavastu
+      span:
+        start: 0
+        end: 14867

@@ -1,0 +1,16 @@
+id: I881BA24E
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:10:57.471458
+last_modified: 2023-02-09 15:10:57.471635
+source_metadata:
+  title: 'MSV 1,16: Adhikaraṇavastu'
+  language: bo
+bases:
+  ECE7:
+    base_file: ECE7.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
